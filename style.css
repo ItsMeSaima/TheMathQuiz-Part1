@@ -42,20 +42,21 @@ color: black;
     font-size: 20px;
     }
 
-    #button_adduser{
+    #button_addUser{
         color: black;
     background: linear-gradient(#c6aae4, #dfbbda, aliceblue);
     border: solid;
     border-color:#c6aae4;
     font-size: 18px;
     font-weight: bold;
-    }
+    width: 20%; 
+    height: 40px;
+}
 
-    #button_adduser:hover{
+    #button_addUser:hover{
         border-color: black;
+        background: linear-gradient(aliceblue, #dfbbda, #c6aae4);
+      
     }
 
 
-
-
-    
